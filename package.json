@@ -1,0 +1,13 @@
+{
+  "name": "whabit",
+  "description": "An unofficial WhatsApp Ticketing System. Built with WwebJS, Deno, Electron & SvelteKit.",
+  "license": "GPL-3.0-only",
+  "author": {
+    "name": "DogFoxX"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/dogfoxx/whabit"
+  },
+  "version": "0.0.1"
+}
